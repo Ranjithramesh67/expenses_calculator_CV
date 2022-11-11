@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "expenses_calculator_CV",
+    "slug": "expenses_calculator_CV",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "expenses_calculator_CV"
+}
