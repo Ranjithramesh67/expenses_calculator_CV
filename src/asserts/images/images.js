@@ -1,0 +1,10 @@
+export const calendar = require("../images/calendar.png");
+export const electricity = require("../images/electricity.png");
+export const food = require("../images/food.png");
+export const home = require("../images/home.png");
+export const income = require("../images/income.png");
+export const movie = require("../images/movie.png");
+export const notes = require("../images/notes.png");
+export const rupee = require("../images/rupee.png");
+export const travel = require("../images/travel.png");
+export const user = require("../images/user.png");

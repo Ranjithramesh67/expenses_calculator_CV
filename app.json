@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b2edd976-e55b-4e1e-ab18-5855bcda47c6"
+      }
+    }
   },
   "name": "expenses_calculator_CV"
 }
